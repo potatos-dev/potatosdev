@@ -48,18 +48,18 @@ Estoy creando mi primera página web con HTML, CSS y JavaScript.
 
 ## 📫 Contacto
 
-📺 **YouTube:** [Mi canal](TU_LINK_DE_YOUTUBE)
+📺 **YouTube:** [Mi canal]()
 
 ---
 
 ### ⚡ Actualmente aprendiendo
 
 ```text
-Python       ███████░░░  70%
+Python       ███████░░░  50%
 HTML         ████████░░  80%
 CSS          ██████░░░░  60%
-JavaScript   ████░░░░░░  40%
-Godot        ██████░░░░  60%
+JavaScript   ████░░░░░░  10%
+Godot        ██████░░░░  30%
 ```
 
-> 🚀 *Aprendiendo, creando y mejorando un proyecto a la vez.*
+> 🚀 * estoy Aprendiendo, creando y mejorando un proyecto a la vez.*
